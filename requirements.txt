@@ -1,0 +1,2 @@
+annotator @ git+https://github.com/yoshihikoueno/DNNCancerAnnotator.git@master
+flask
